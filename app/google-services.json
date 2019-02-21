@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56794912626",
+    "firebase_url": "https://wewerk-680e6.firebaseio.com",
+    "project_id": "wewerk-680e6",
+    "storage_bucket": "wewerk-680e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56794912626:android:750dca2e2e4dc814",
+        "android_client_info": {
+          "package_name": "com.example.a1738217.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56794912626-jbtm7juf6g0jmdu081lbfomuou8r8cbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a1738217.myapplication",
+            "certificate_hash": "f62dad6609843d9e1afa5fc2deb63e243e9c9d2a"
+          }
+        },
+        {
+          "client_id": "56794912626-ad45r8ce2o2n75caf2hoibe9hm0alcje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHRlRaCCHT6yns3NzIt3p1FwHFQ3dkuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56794912626-ad45r8ce2o2n75caf2hoibe9hm0alcje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
